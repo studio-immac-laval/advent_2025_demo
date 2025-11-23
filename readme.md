@@ -13,13 +13,12 @@
 ## Défis
 
 - [ ] 1 : Afficher "Vive le vent..." caractère par caractère.
-- [ ] 1 : Afficher "Vive le vent..." mot par mot en changeant de couleur à chaque fois.
-- [ ] 2 : Faire neiger des pixels et les entasser en bas (boule de neige ?).
-- [ ] 3 : Afficher des lignes de 3 et les décaler chaque ligne dans un sens différent
-- [ ] 4 : Afficher un visage de Père Noël et zoomer dessus en le faisant tourner
-- [ ] 5 : Afficher un Nyan Santa
-- [ ] 6 : Afficher un Père Noël qui se déplace et rebondit sur les murs
-- [ ] 7 : 
+- [ ] 2 : Afficher "Vive le vent..." mot par mot en changeant de couleur à chaque fois.
+- [ ] 3 : Faire neiger des pixels et les entasser en bas (boule de neige ?).
+- [ ] 4 : Afficher des lignes de 3 et les décaler chaque ligne dans un sens différent
+- [ ] 5 : Afficher un visage de Père Noël et zoomer dessus en le faisant tourner
+- [ ] 6 : Afficher un Nyan Santa
+- [ ] 7 : Afficher un Père Noël qui se déplace et rebondit sur les murs
 - [ ] 8 : 
 - [ ] 9 : 
 - [ ] 10 : 
