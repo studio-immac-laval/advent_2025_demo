@@ -1,4 +1,6 @@
-# Calendrier de l'Avent Pyxel
+# Calendrier de l'Avent Pyxel 2025
+
+![calendrier de l'avent](illustration.png)
 
 ## Comment participer ?
 
