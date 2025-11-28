@@ -38,7 +38,7 @@ class Day01(Day) :
             pyxel.cls(self.color)
             line = 0
             remainingChars = self.songStep // 2 # Synchro avec la musique 😎
-            while remainingChars > 0 :
+            while remainingChars > 0 and line < len(self.song) :
                 if remainingChars < len(self.song[line]) :
                     pyxel.text(1, 20 + 7 * line, self.song[line][:remainingChars], 7)
                     remainingChars = 0
@@ -47,7 +47,6 @@ class Day01(Day) :
                     remainingChars -= len(self.song[line])
                     line += 1
                     if line == len(self.song) :
-                        line -= 1
                         self.songDisplay = False
 
         super().draw()
