@@ -2,7 +2,7 @@
 
 ![calendrier de l'avent](illustration.png)
 
-## Défis proposés aux élèves
+## Défis
 
 | # | Défi | Exemple |
 | --- | --- | --- |
@@ -30,4 +30,4 @@
 | 22 |  |  |
 | 23 |  |  |
 | 24 |  |  |
-| 25 | Afficher Joyeux Noël en police outline (ex : https://www.dafont.com/fr/golden-varsity.font) avec un arc-en-ciel qui défile dans entre le corps et le contour de la police |  |
+| 25 | Afficher "Joyeux Noël !" en police outline (ex : https://www.dafont.com/fr/golden-varsity.font) avec un arc-en-ciel qui défile dans entre le corps et le contour de la police |  |
