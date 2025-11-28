@@ -2,17 +2,7 @@
 
 ![calendrier de l'avent](illustration.png)
 
-## Comment participer ?
-
-1.  Forker le repository ;
-
-2.  Choisir un défi ci-après ;
-
-3.  Compléter la classe correspondant au jour du défi choisi ;
-
-4.  Faire une pull-request pour demander une vérification du défi et être intégré au calendrier !
-
-## Défis
+## Défis proposés aux élèves
 
 | # | Défi | Exemple |
 | --- | --- | --- |
